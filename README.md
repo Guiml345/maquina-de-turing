@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Maquina_Turing{
     public static void main(String args[]) {
 
-		Scanner scan = new Scanner(System.in)
+		Scanner scan = new Scanner(System.in);
 
 		String frase_Codificada;
 		String frase_Conhecida;
