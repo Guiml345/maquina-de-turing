@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Trabalho_II{
+public class Maquina_Turing{
     public static void main(String args[]) {
 
 		Scanner scan = new Scanner(System.in);
